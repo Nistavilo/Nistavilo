@@ -1,6 +1,6 @@
 Hi
 
-![Snake animation](https://github.com/Nistavilo/REPO_ADI/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nistavilo/Nistavilo/blob/output/github-contribution-grid-snake.svg)
 
 
 # 💻 Tech Stack:
